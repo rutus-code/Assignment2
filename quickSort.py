@@ -1,3 +1,7 @@
+#Created By : Rutu Shah
+#Date : 31st October 2024
+# Quick Sort Algorithm code, this is for part 1 of Assignment 2
+
 def quickSortAlgo(arr):
     if len(arr) <= 1:
         return arr 
